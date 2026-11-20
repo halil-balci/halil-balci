@@ -6,6 +6,8 @@ I build calm, native apps for macOS, iOS and Android — small tools that do one
 
 <div align="center">
 
+### Read one word at a time. Your eyes stay still.
+
 <a href="https://github.com/halil-balci/odak"><img src="odak-demo.gif" alt="Odak showing one word at a time" width="560"></a>
 
 ## [Odak](https://github.com/halil-balci/odak) — read one word at a time
