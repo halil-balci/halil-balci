@@ -4,8 +4,6 @@ I build calm, native apps for macOS, iOS and Android — small tools that do one
 
 ---
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Lora&size=28&duration=700&pause=350&color=E8873A&center=true&vCenter=true&width=500&height=50&lines=Read;one;word;at;a;time.;Your;eyes;stay;still." alt="Read one word at a time. Your eyes stay still."></p>
-
 <div align="center">
 
 <a href="https://github.com/halil-balci/odak"><img src="odak-demo.gif" alt="Odak showing one word at a time" width="560"></a>
